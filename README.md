@@ -3,7 +3,7 @@
 - [@RalphAngelovBraganza](https://github.com/RalphAngelovBraganza)
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2h0YzF3OW9pOHZlNnZkbXJ4djI2bGUyYzQ3eHE4Z2cweDh2Zm1jaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2bICILGf7ps51ZYJ6l/giphy.gif)
 
 
 
