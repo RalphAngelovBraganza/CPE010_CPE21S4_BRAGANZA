@@ -23,12 +23,12 @@
 
 - [About Me](#-about-me-)
 - [Course Objective](#-course-objective)
-- [Technology Used](#-technology-used)
+- [Technology Used](#️-technology-used)
 - [Course Topics](#-course-topics)
 - [Repository Structure](#-repository-structure)
-- [Prelim Period](#-prelim-period)
-- [Midterm Period](#-midterm-period)
-- [Finals Period](#-finals-period)
+- [Prelim Period](#-prelim-period-scores)
+- [Midterm Period](#-midterm-period-scores)
+- [Finals Period](#-finals-period-scores)
 
 ---
 
@@ -171,7 +171,7 @@ CPE 010-CPE21S4 - Data Structures and Algorithms/
 
 ---
 
-# 📘 Prelim Period
+# 📘 Prelim Period Scores
 
 ### 💻 Hands-on Activities
 
@@ -202,7 +202,7 @@ CPE 010-CPE21S4 - Data Structures and Algorithms/
 
 ---
 
-# 📗 Midterm Period
+# 📗 Midterm Period Scores
 
 ### 💻 Hands-on Activities
 
@@ -233,7 +233,7 @@ CPE 010-CPE21S4 - Data Structures and Algorithms/
 
 ---
 
-# 📙 Finals Period
+# 📙 Finals Period Scores
 
 ### 💻 Hands-on Activities
 
